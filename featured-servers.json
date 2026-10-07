@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "servers": [
+    {
+      "id": "happymc",
+      "name": "HappyMC",
+      "address": "play.happymc.fun",
+      "description": "A Java and Bedrock network with LifeSteal SMP and BoxPVP.",
+      "versionLabel": "Java Edition",
+      "gameModes": ["LifeSteal", "BoxPVP"],
+      "placement": "FEATURED_PARTNER",
+      "iconResource": "assets/carrots-app-icon-v1.png"
+    }
+  ]
+}
